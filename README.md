@@ -13,6 +13,7 @@ idk when i'll upload files
 
 <img width="1828" height="1021" alt="image" src="https://github.com/user-attachments/assets/e113f2e7-3d12-4bb0-ad3b-8fed4dc61fc7" />
 <img width="1816" height="1024" alt="image" src="https://github.com/user-attachments/assets/57ff7f3d-a739-4c2c-9065-a8cc5fa62f7b" />
+<img width="1832" height="1022" alt="image" src="https://github.com/user-attachments/assets/731295df-3512-4523-8e74-6d3ed74a526c" />
 
 
 
